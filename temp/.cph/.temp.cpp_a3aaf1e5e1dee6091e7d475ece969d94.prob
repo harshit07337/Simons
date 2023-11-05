@@ -1,0 +1,1 @@
+{"name":"Local: temp","url":"c:\\Users\\harsh\\OneDrive\\Desktop\\work\\webdev\\Simon Game\\temp\\temp.cpp","tests":[{"id":1685422750178,"input":"3 4 \na g b c \nq e e l \ng b k s \ntldm","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\harsh\\OneDrive\\Desktop\\work\\webdev\\Simon Game\\temp\\temp.cpp","group":"local","local":true}
